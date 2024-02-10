@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{5C435EE6-8BF7-41E8-AB30-9766DB5CCC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{5D47556D-ABB5-4322-9063-B0E369E9B715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{2717AF42-43B4-486C-9954-F433B1BD4DA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C435EE6-8BF7-41E8-AB30-9766DB5CCC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C435EE6-8BF7-41E8-AB30-9766DB5CCC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C435EE6-8BF7-41E8-AB30-9766DB5CCC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C435EE6-8BF7-41E8-AB30-9766DB5CCC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D47556D-ABB5-4322-9063-B0E369E9B715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D47556D-ABB5-4322-9063-B0E369E9B715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D47556D-ABB5-4322-9063-B0E369E9B715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D47556D-ABB5-4322-9063-B0E369E9B715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2717AF42-43B4-486C-9954-F433B1BD4DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2717AF42-43B4-486C-9954-F433B1BD4DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2717AF42-43B4-486C-9954-F433B1BD4DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2717AF42-43B4-486C-9954-F433B1BD4DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2298C9A4-9781-473E-AD8F-BC2E30042F35}
+	EndGlobalSection
+EndGlobal
